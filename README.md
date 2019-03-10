@@ -2,7 +2,7 @@
 ### Author: M. L, Yilin X
 
 This Git repository consists of a VERY large flight datasets to test JDBC assignment.
-The flights data comes from [here](http://www.cs.washington.edu/education/courses/cse344/flights-small.tar.gz). 
+The flights data comes from Bureau of Transportation Statistics. It offered/formatted by Washington's CSE344. It can be downloaded [here](http://www.cs.washington.edu/education/courses/cse344/flights-small.tar.gz). 
 Yet, in this test we only used flight.csv from the package. Here are in total 1,148,675 rows of airline information 
 and after matching to our assignment's format, we are left with 9,552 rows. 
 
